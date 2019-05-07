@@ -1,0 +1,722 @@
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 0
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 1
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 2
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 3
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 4
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 5
+"../../../Engine/Content/BasicShapes/Cone.uasset" 6
+"../../../Engine/Content/BasicShapes/Cube.uasset" 7
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 8
+"../../../Engine/Content/BasicShapes/Plane.uasset" 9
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 10
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 11
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 12
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 13
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 14
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 15
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 16
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 17
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 18
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 19
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 20
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 21
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 22
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 23
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 24
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 25
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 26
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 27
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 28
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 29
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 30
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 31
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 32
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 33
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 34
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 35
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 36
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 37
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 38
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 39
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 40
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 41
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 42
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 43
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 44
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 45
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 46
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 47
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 48
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 49
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 50
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 51
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 52
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 53
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 54
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 55
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 56
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 57
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 58
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 59
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 60
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 61
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 62
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 63
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 64
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 65
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 66
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 67
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 68
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 69
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 70
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 71
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 72
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 73
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 74
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 75
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 76
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 77
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 78
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 79
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 80
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 81
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 82
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 83
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 84
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 85
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 86
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 87
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 88
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 89
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 90
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 91
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 92
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 93
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 94
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 95
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 96
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 97
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 98
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 99
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 100
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 101
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 102
+"../../../Engine/Content/EngineResources/Black.uasset" 103
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 104
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 105
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 106
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 107
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 108
+"../../../Engine/Content/EngineSounds/Master.uasset" 109
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 110
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 111
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 112
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 113
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 114
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 115
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 116
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 117
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 118
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 119
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 120
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 121
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 122
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 123
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 124
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 125
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 126
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 127
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 128
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 129
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 130
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 131
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 132
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 133
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 134
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 135
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 136
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 137
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 138
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 139
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 140
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 141
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 142
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 143
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 144
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 145
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 146
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 147
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 148
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 149
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 150
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 151
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 152
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 153
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 154
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 155
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 156
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 157
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 158
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 159
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 160
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 161
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 162
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Core/BP_Game_GI.uasset" 163
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Blueprints/BP_GameJamKit_HUD_Interface.uasset" 164
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Blueprints/UMG/Base/UMG_GameJam_Button_Base.uasset" 165
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Blueprints/UMG/UMG_GameJam_MainMenu_Widget.uasset" 166
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Textures/Utility/UE4_Logo.uasset" 167
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/UI/WB_MainMenu.uasset" 168
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/UI/BP_MainMenu_HUD.uasset" 169
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Core/MainMenu/BP_MainMenu_GM.uasset" 170
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Levels/MainMenu.umap" 171
+"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 172
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Characters/Deer/DeerReRig_Skeleton.uasset" 173
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Characters/Deer/Animations/armature_Pick_up_cigarettes_.uasset" 174
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Characters/Deer/Animations/Fire_Rifle_Hip.uasset" 175
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Characters/Deer/Animations/Idle_Rifle_Hip_Break1.uasset" 176
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Characters/Deer/Animations/Idle_Rifle_Hip_Break2.uasset" 177
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Characters/Deer/Animations/Reload_Rifle_Hip.uasset" 178
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Characters/Deer/Animations/Jog_Bwd_Rifle.uasset" 179
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Characters/Deer/Animations/Jog_Fwd_Rifle.uasset" 180
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Characters/Deer/Animations/Jog_Lt_Rifle.uasset" 181
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Characters/Deer/Animations/Jog_Rt_Rifle.uasset" 182
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Characters/Deer/Animations/BS_Jog.uasset" 183
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Core/Game/AI/BP_AI_Waypoint.uasset" 184
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 185
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.uasset" 186
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.uasset" 187
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.uasset" 188
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.uasset" 189
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.uasset" 190
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.uasset" 191
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Enums/MovementDirection.uasset" 192
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Structs/ALS_PivotParams.uasset" 193
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/ALS_Interface.uasset" 194
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Curves/CameraLerpCurves/CameraLerp_1.uasset" 195
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Curves/CameraLerpCurves/CameraLerp_2.uasset" 196
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Curves/CameraLerpCurves/CameraLerp_3.uasset" 197
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Structs/ALS_CameraSettings.uasset" 198
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.uasset" 199
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Structs/ALS_CameraSettings_Gait.uasset" 200
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Structs/ALS_CameraSettings_Stance.uasset" 201
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Structs/ALS_Camera_Targets.uasset" 202
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/ALS_BaseCharacter.uasset" 203
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/ALS_Mannequin_Skeleton.uasset" 204
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_N_Idle_Pose.uasset" 205
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_F.uasset" 206
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_FD.uasset" 207
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_FU.uasset" 208
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_L180.uasset" 209
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_L90.uasset" 210
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_LD180.uasset" 211
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_LD90.uasset" 212
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_LU180.uasset" 213
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_LU90.uasset" 214
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_R180.uasset" 215
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_R90.uasset" 216
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_RD180.uasset" 217
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_RD90.uasset" 218
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_RU180.uasset" 219
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_RU90.uasset" 220
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO.uasset" 221
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 222
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 223
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 224
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/VFX/Fideos_Dust.uasset" 225
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Audio/Footsteps/Concrete/Concrete_Pivot_01.uasset" 226
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Audio/Footsteps/Concrete/Concrete_Pivot_02.uasset" 227
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Audio/Footsteps/Concrete/Concrete_Pivot_03.uasset" 228
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Audio/Footsteps/Concrete/Concrete_Pivot_04.uasset" 229
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Audio/Footsteps/Concrete/Concrete_Run_01.uasset" 230
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Audio/Footsteps/Concrete/Concrete_Run_02.uasset" 231
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Audio/Footsteps/Concrete/Concrete_Run_03.uasset" 232
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Audio/Footsteps/Concrete/Concrete_Run_04.uasset" 233
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Audio/Footsteps/Concrete/Concrete_Step_01.uasset" 234
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Audio/Footsteps/Concrete/Concrete_Step_02.uasset" 235
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Audio/Footsteps/Concrete/Concrete_Step_03.uasset" 236
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Audio/Footsteps/Concrete/Concrete_Walk_01.uasset" 237
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Audio/Footsteps/Concrete/Concrete_Walk_02.uasset" 238
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Audio/Footsteps/Concrete/Concrete_Walk_03.uasset" 239
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Audio/Footsteps/Concrete/Concrete_Walk_04.uasset" 240
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Audio/Footsteps/Concrete/Concrete_Walk_05.uasset" 241
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Audio/Footsteps/Footstep_Cue.uasset" 242
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.uasset" 243
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/AnimNotifys/Footstep_AnimNotify.uasset" 244
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/AnimNotifys/IdleEntry_AnimNotify.uasset" 245
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/GettingUp/ALS_CLF_GetUpFromBack.uasset" 246
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/GettingUp/ALS_CLF_GetUpFromBack_Montage.uasset" 247
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/GettingUp/ALS_CLF_GetUpFromFront.uasset" 248
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/GettingUp/ALS_CLF_GetUpFromFront_Montage.uasset" 249
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/AnimNotifys/TurnInPlace_AnimNotifyState.uasset" 250
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Curves/TurnInPlaceCurves/C_Turn_L90.uasset" 251
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_CLF_Turn_L90.uasset" 252
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_CLF_Turn_L90_Montage.uasset" 253
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Curves/TurnInPlaceCurves/C_Turn_R90.uasset" 254
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_CLF_Turn_R90.uasset" 255
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_CLF_Turn_R90_Montage.uasset" 256
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_CRF_Turn_L90.uasset" 257
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_CRF_Turn_L90_Montage.uasset" 258
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_CRF_Turn_R90.uasset" 259
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_CRF_Turn_R90_Montage.uasset" 260
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Curves/TurnInPlaceCurves/Turn_L90.uasset" 261
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_LF_Turn_L90.uasset" 262
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_LF_Turn_L90_Montage.uasset" 263
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Curves/TurnInPlaceCurves/Turn_R90.uasset" 264
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_LF_Turn_R90.uasset" 265
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_LF_Turn_R90_Montage.uasset" 266
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Curves/TurnInPlaceCurves/Turn_L180.uasset" 267
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_N_Turn_L180.uasset" 268
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_N_Turn_L180_Montage.uasset" 269
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_N_Turn_L90.uasset" 270
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_N_Turn_L90_Montage.uasset" 271
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Curves/TurnInPlaceCurves/Turn_R180.uasset" 272
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_N_Turn_R180.uasset" 273
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_N_Turn_R180_Montage.uasset" 274
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_N_Turn_R90.uasset" 275
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_N_Turn_R90_Montage.uasset" 276
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_RF_Turn_L90.uasset" 277
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_RF_Turn_L90_Montage.uasset" 278
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_RF_Turn_R90.uasset" 279
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_RF_Turn_R90_Montage.uasset" 280
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Characters/Mannequin_ExtraAnim/Throw.uasset" 281
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_CLF_Idle_Pose.uasset" 282
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_CLF_Idle_Additive.uasset" 283
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_CRF_Idle_Pose.uasset" 284
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_CRF_Idle_Additive.uasset" 285
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_LF_Idle_Pose.uasset" 286
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_N_Idle_Additive.uasset" 287
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_RF_Idle_Pose.uasset" 288
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_CLF_to_CRF_Idle.uasset" 289
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_CRF_to_CLF_Idle.uasset" 290
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_LF_to_CLF_Idle.uasset" 291
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_LF_to_RF_Idle.uasset" 292
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_N_to_CLF_Idle.uasset" 293
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_N_to_CRF_Idle.uasset" 294
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_N_to_LF_Idle.uasset" 295
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_N_to_RF_Idle.uasset" 296
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_RF_to_CRF_Idle.uasset" 297
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/InAir/ALS_Curl.uasset" 298
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/InAir/ALS_Flail.uasset" 299
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/InAir/ALS_N_AdditiveLandCompression.uasset" 300
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/InAir/ALS_N_FallLoop.uasset" 301
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/InAir/ALS_N_Jump.uasset" 302
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/InAir/ALS_N_Land.uasset" 303
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/AnimNotifys/Pivot_AnimNotifyState.uasset" 304
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_LF_Pivot_B.uasset" 305
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_LF_Pivot_F.uasset" 306
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_LF_Pivot_L.uasset" 307
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_LF_Pivot_R.uasset" 308
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_RF_Pivot_B.uasset" 309
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_RF_Pivot_F.uasset" 310
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_RF_Pivot_L.uasset" 311
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_RF_Pivot_R.uasset" 312
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_CLF_Stop.uasset" 313
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_CRF_Stop.uasset" 314
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_Idle_Additive_Pose.uasset" 315
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_Lean_B_Pose.uasset" 316
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_Lean_F_Pose.uasset" 317
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_Lean_L_Pose.uasset" 318
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_Lean_R_Pose.uasset" 319
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_Lean_Grounded.uasset" 320
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_InAir_Additive_Pose.uasset" 321
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_InAIr_Lean_B_Pose.uasset" 322
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_InAIr_Lean_F_Pose.uasset" 323
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_InAIr_Lean_L_Pose.uasset" 324
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_InAIr_Lean_R_Pose.uasset" 325
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_Lean_InAir.uasset" 326
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_LF_Walk_B.uasset" 327
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_LF_Walk_F.uasset" 328
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_LF_Walk_L.uasset" 329
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_LF_Walk_R.uasset" 330
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Run_B.uasset" 331
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Run_BL.uasset" 332
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Run_F.uasset" 333
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Run_FL.uasset" 334
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Run_FR.uasset" 335
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/AnimNotifys/CameraShake_AnimNotify.uasset" 336
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Misc/Sprint_CameraShake.uasset" 337
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Sprint_F.uasset" 338
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_LF_Locomotion.uasset" 339
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Run_BR.uasset" 340
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_B.uasset" 341
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_BL.uasset" 342
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_BL_135.uasset" 343
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_BR.uasset" 344
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_BR_135.uasset" 345
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_F.uasset" 346
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Locomotion_B.uasset" 347
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Locomotion_B_Upper.uasset" 348
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_FL.uasset" 349
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_FL_45.uasset" 350
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_FR.uasset" 351
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_FR_45.uasset" 352
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Locomotion_F.uasset" 353
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Locomotion_F_90.uasset" 354
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Locomotion_F_Upper.uasset" 355
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_RF_Walk_B.uasset" 356
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_RF_Walk_F.uasset" 357
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_RF_Walk_L.uasset" 358
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_RF_Walk_R.uasset" 359
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_RF_Locomotion.uasset" 360
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_LF_Stop_0_LF.uasset" 361
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_LF_Stop_0_RF.uasset" 362
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_LF_Stop_90_LF.uasset" 363
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_LF_Stop_90_RF.uasset" 364
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_LF_Stop.uasset" 365
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_-90_LF.uasset" 366
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_-90_LF0.uasset" 367
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_0_LF.uasset" 368
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_90_LF.uasset" 369
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_90_LF0.uasset" 370
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_LF.uasset" 371
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_-90_RF.uasset" 372
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_-90_RF0.uasset" 373
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_0_RF.uasset" 374
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_90_RF.uasset" 375
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_90_RF0.uasset" 376
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_RF.uasset" 377
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_RF_Stop_0_LF.uasset" 378
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_RF_Stop_0_RF.uasset" 379
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_RF_Stop_90_LF.uasset" 380
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_RF_Stop_90_RF.uasset" 381
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_RF_Stop.uasset" 382
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CLF_Walk_B.uasset" 383
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CLF_Walk_F.uasset" 384
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CLF_Walk_L.uasset" 385
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CLF_Walk_R.uasset" 386
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CLF_Locomotion.uasset" 387
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CRF_Walk_B.uasset" 388
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CRF_Walk_F.uasset" 389
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CRF_Walk_L.uasset" 390
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CRF_Walk_R.uasset" 391
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CRF_Locomotion.uasset" 392
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Curves/AnimBlendCurves/FlailAlphaCurve.uasset" 393
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Curves/AnimBlendCurves/LandPredictionAlphaCurve.uasset" 394
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Curves/TransitionCurves/IdleTransition.uasset" 395
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Structs/TurnAnims.uasset" 396
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.uasset" 397
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Mannequin_AnimBP.uasset" 398
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 399
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 400
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 401
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 402
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 403
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 404
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 405
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Materials/Textures/UE4_LOGO_CARD.uasset" 406
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 407
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 408
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 409
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 410
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Materials/Textures/UE4_Mannequin__normals.uasset" 411
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Materials/Textures/UE4_Mannequin_MAT_MASKA.uasset" 412
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Materials/M_UE4Man_Body.uasset" 413
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Materials/M_UE4Man_Body_Beige.uasset" 414
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Materials/Textures/UE4Man_Logo_N.uasset" 415
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 416
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Materials/M_UE4Man_ChestLogo_Beige.uasset" 417
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Mannequin_IK_AnimBP.uasset" 418
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Mannequin_PhysicsAsset.uasset" 419
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Characters/Mannequin/Mannequin.uasset" 420
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AdvancedLocomotionV3/Blueprints/MannequinCharacter.uasset" 421
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Blueprints/UMG/UMG_GameJam_PauseMenu_Widget.uasset" 422
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Core/Game/BP_Game_PC.uasset" 423
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Core/Game/BP_Light.uasset" 424
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/UI/BP_Game_HUD.uasset" 425
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Core/Game/BP_Game_GM.uasset" 426
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/UI/WB_StealthMeter.uasset" 427
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Core/Game/BP_Player.uasset" 428
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/M_Materials/MAT_Projectile.uasset" 429
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 430
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_BakedNormal.uasset" 431
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Textures/Metal/T_Metal_Metal01_brass_D.uasset" 432
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Textures/Metal/T_Metal_Metal01_N.uasset" 433
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Materials/MaterialLayers/ML_Infil1_City_Brass.uasset" 434
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Meshes/Bullets/Materials/Infil1_Infil3_v3_Barrel_normals.uasset" 435
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Meshes/Bullets/Materials/Infil1_Infil3_v3_Barrel_occlusion.uasset" 436
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Meshes/Bullets/Materials/Infil1_Infil3_v3_Bullet.uasset" 437
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Meshes/Bullets/Infil1_Infil3_v3_Bullet_Case_SM.uasset" 438
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/VFX/Projectile.uasset" 439
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/FPS_Weapon_Bundle/Weapons/Textures/KA74U/T_KA74U_ALB.uasset" 440
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/FPS_Weapon_Bundle/Weapons/Textures/KA74U/T_KA74U_M_MSK.uasset" 441
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/FPS_Weapon_Bundle/Weapons/Textures/KA74U/T_KA74U_NRM.uasset" 442
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/FPS_Weapon_Bundle/Weapons/Textures/Patterns/T_Stripes__Pattern.uasset" 443
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_Weapon_Master_USE.uasset" 444
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/FPS_Weapon_Bundle/Weapons/Textures/Ammunition/T_762x39_ALB.uasset" 445
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/FPS_Weapon_Bundle/Weapons/Textures/Ammunition/T_762x39_M_MSK.uasset" 446
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/FPS_Weapon_Bundle/Weapons/Textures/Ammunition/T_762x39_NRM.uasset" 447
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/FPS_Weapon_Bundle/Weapons/Materials/Ammunition/M_762x39_Empty.uasset" 448
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/FPS_Weapon_Bundle/Weapons/Materials/KA74U/M_KA74U.uasset" 449
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/FPS_Weapon_Bundle/Weapons/Meshes/KA74U/SK_KA74U_X_Physics.uasset" 450
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/FPS_Weapon_Bundle/Weapons/Meshes/KA74U/SK_KA74U_X_Skeleton.uasset" 451
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/FPS_Weapon_Bundle/Weapons/Meshes/KA74U/SK_KA74U_X.uasset" 452
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Textures/Effects/T_Clouds_01.uasset" 453
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Textures/Effects/T_SmokeBall_01_8_8.uasset" 454
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Effects/Impacts/Material/M_ImpactSmoke.uasset" 455
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Textures/Effects/T_SparkSingle.uasset" 456
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Effects/Impacts/Material/M_Single_Master.uasset" 457
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Textures/Effects/T_HeatTile_N.uasset" 458
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Textures/Effects/T_SmokeBall_03_Perlin.uasset" 459
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Effects/MuzzleFlash/Materials/M_HeatDistort.uasset" 460
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Effects/MuzzleFlash/Materials/M_MuzzleFire.uasset" 461
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 462
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Textures/Effects/T_SquareMaskTightEdge.uasset" 463
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Textures/Effects/T_TileNoise.uasset" 464
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Effects/MuzzleFlash/Materials/M_MuzzleGlow.uasset" 465
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 466
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Effects/MuzzleFlash/Materials/M_SoftGradient_Muzzle.uasset" 467
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Textures/Effects/Flare_02.uasset" 468
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Textures/Effects/Flare_04.uasset" 469
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Textures/Effects/T_Smoke_Tile_01.uasset" 470
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Effects/MuzzleFlash/Materials/M_Flare_Master.uasset" 471
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Textures/Effects/Flare_03.uasset" 472
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Effects/MuzzleFlash/Materials/M_MetalImpact_Flare.uasset" 473
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Effects/MuzzleFlash/Materials/M_MuzzleFlare.uasset" 474
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Effects/MuzzleFlash/Meshes/SM_MuzzleCone.uasset" 475
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Effects/MuzzleFlash/P_Muzzle_Flash_Carrier.uasset" 476
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Core/Game/AI/FIDEO_Weapon.uasset" 477
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AnimalVarietyPack/DeerStagAndDoe/Textures/T_Stag_BaseColor.uasset" 478
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AnimalVarietyPack/DeerStagAndDoe/Textures/T_Stag_Nml.uasset" 479
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AnimalVarietyPack/DeerStagAndDoe/Textures/T_Stag_OcclusionRoughnessMetllic.uasset" 480
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AnimalVarietyPack/DeerStagAndDoe/Textures/T_Stag_Specular.uasset" 481
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/AnimalVarietyPack/DeerStagAndDoe/Materials/M_DeerStag.uasset" 482
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Characters/Deer/DeerReRig_PhysicsAsset.uasset" 483
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Characters/Deer/DeerReRig.uasset" 484
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Core/Game/BP_Game_C.uasset" 485
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Core/Game/AI/BB_Enemy.uasset" 486
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Core/Game/AI/BTT_AttackPlayer.uasset" 487
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Core/Game/AI/BTT_NextWaypoint.uasset" 488
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Core/Game/AI/BT_Enemy.uasset" 489
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Core/Game/AI/BP_Enemy_AIC.uasset" 490
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Characters/Deer/Animations/ABP_Deer.uasset" 491
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Sound/Deer_Sound.uasset" 492
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Sound/Deer.uasset" 493
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Assets/Textures/T_TilingNoise02_M.uasset" 494
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Assets/Materials/M_Security_Camera_Viewcone.uasset" 495
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Assets/Meshes/SM_Security_Camera_Viewcone.uasset" 496
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Characters/Deer/Animations/CBP_Deer.uasset" 497
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Core/Game/BP_WinZone.uasset" 498
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 499
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 500
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 501
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 502
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 503
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 504
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 505
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 506
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 507
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Spline_BluePrints/data/River_Scale_Data.uasset" 508
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/UVRemap_0-1_ToRange.uasset" 509
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 510
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 511
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/tree_bark_01_ao.uasset" 512
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/water_river_flow_nrm.uasset" 513
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/water_river_flow_plx.uasset" 514
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/water_river_foam_bsm.uasset" 515
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Materials/master_river_flow.uasset" 516
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Materials/water/river_flow_a.uasset" 517
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/meshes/water/river-plane-a.uasset" 518
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Spline_BluePrints/master_river_spline.uasset" 519
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Levels/Blocking/FirstLevel_BuiltData.uasset" 520
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Textures/Terrain/shugeh2k_2K_Albedo.uasset" 521
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Textures/Terrain/shugeh2k_2K_AO.uasset" 522
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Textures/Terrain/shugeh2k_2K_Normal.uasset" 523
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Textures/Terrain/shugeh2k_2K_Roughness.uasset" 524
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/M_Materials/MAT_Terrain.uasset" 525
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/M_Instances/MAT_Terrain_Inst.uasset" 526
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Geometry/Terrain/TerrainChunk_1.uasset" 527
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Geometry/Terrain/TerrainChunk_2.uasset" 528
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Geometry/Terrain/TerrainChunk_3.uasset" 529
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Geometry/Terrain/TerrainChunk_4.uasset" 530
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 531
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/clouds.uasset" 532
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/grass_alpha_bsm.uasset" 533
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/grass_alpha_nrm.uasset" 534
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/grass_alpha_rgm.uasset" 535
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Materials/master_foliage.uasset" 536
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Materials/grass/grass_a.uasset" 537
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Materials/grass/grass_a_cheap_distant.uasset" 538
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Meshes/grass/grass_small_01.uasset" 539
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/leaves_fern_bsm.uasset" 540
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/leaves_fern_nrm.uasset" 541
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/leaves_fern_rgm.uasset" 542
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Materials/leaves/leaves_fern.uasset" 543
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Meshes/leaves/leaves_fern_01.uasset" 544
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Meshes/leaves/leaves_fern_02.uasset" 545
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 546
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 547
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 548
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 549
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 550
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 551
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/SphereRenderNormalsMap.uasset" 552
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldAlignedNormals_HighQuality.uasset" 553
+"../../../Engine/Content/EngineMaterials/DefaultNormal_Uncompressed.uasset" 554
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedNormal.uasset" 555
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 556
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/HeightLerp.uasset" 557
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 558
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 559
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 560
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/moss_bsm.uasset" 561
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/moss_nrm.uasset" 562
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/moss_rgm.uasset" 563
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/rock-a_ao.uasset" 564
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/rock-a_bsm.uasset" 565
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/rock-a_nrm.uasset" 566
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/rock-a_plx.uasset" 567
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/rock-a_rgm.uasset" 568
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/rock_tiling_bsm-2.uasset" 569
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/rock_tiling_nrm-2.uasset" 570
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Materials/master_rock_world_material.uasset" 571
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Materials/rocks/boulder_a.uasset" 572
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Meshes/rocks_boulders/rock_boulder_a.uasset" 573
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/rock-b_bsm.uasset" 574
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/rock-b_nrm.uasset" 575
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/rock-b_plx.uasset" 576
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/rock-b_rgm.uasset" 577
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/rock_detail_nrm.uasset" 578
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Materials/rocks/boulder_b.uasset" 579
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Meshes/rocks_boulders/rock_boulder_b1.uasset" 580
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Materials/rocks/boulder_c.uasset" 581
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Meshes/rocks_boulders/rock_boulder_b2.uasset" 582
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Materials/rocks/boulder_b_Procedural_Moss.uasset" 583
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Meshes/rocks_boulders/rock_boulder_b3.uasset" 584
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Materials/master_rocks_small.uasset" 585
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/rock_small_tiling_nrm.uasset" 586
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/rock_small_tiling_rgm.uasset" 587
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/rock_tiling-01_bsm.uasset" 588
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Materials/rocks/rocks_small_a2.uasset" 589
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Meshes/rocks_small/rock_group_small_c1.uasset" 590
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Materials/wind_function/wind_branches.uasset" 591
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/leaves_tree_bsm.uasset" 592
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/leaves_tree_nrm.uasset" 593
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/leaves_tree_rgm.uasset" 594
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Materials/master_leaves.uasset" 595
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Materials/leaves/tree_leaves_01.uasset" 596
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/tree_bark_01_bsm-1.uasset" 597
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/tree_bark_01_nrm.uasset" 598
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/tree_bark_01_plx.uasset" 599
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/tree_bark_01_rgm.uasset" 600
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Materials/master_spline_material.uasset" 601
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Materials/tree_bark/tree_bark_a.uasset" 602
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Meshes/trees_w_roots/large_tree_w_roots_a.uasset" 603
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Levels/Blocking/FirstLevel.umap" 604
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Particles_Wind_Control_System/Blueprints/Components/Interface_Wind_Particle_True.uasset" 605
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Particles_Wind_Control_System/Textures/T_particles.uasset" 606
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Particles_Wind_Control_System/Blueprints/BP_Paticle_wind_settings.uasset" 607
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Particles_Wind_Control_System/Blueprints/Macros/Wind_Info_Update_Macro.uasset" 608
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 609
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 610
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Particles_Wind_Control_System/Textures/T_Snowflake_10_B.uasset" 611
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Particles_Wind_Control_System/Materials/M_Snow.uasset" 612
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Particles_Wind_Control_System/Particles/P_Snow.uasset" 613
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Particles_Wind_Control_System/Textures/T_Emitter.uasset" 614
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Particles_Wind_Control_System/Blueprints/BP_Particle_Snow.uasset" 615
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Levels/Blocking/SecondLevel_BuiltData.uasset" 616
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Textures/Terrain/sipndgca_2K_Albedo.uasset" 617
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Textures/Terrain/sipndgca_2K_Normal.uasset" 618
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/Textures/Terrain/sipndgca_2K_Roughness.uasset" 619
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Art/M_Instances/MAT_TerrainSnow.uasset" 620
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Assets/Textures/SnowMound_01_N.uasset" 621
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Assets/Textures/T_SnowTree_01_D.uasset" 622
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Assets/Materials/M_SnowTree_01.uasset" 623
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/TangentBasis.uasset" 624
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 625
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SplineThicken.uasset" 626
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Assets/Textures/T_SnowTree_BillBoard_D.uasset" 627
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Assets/Textures/T_SnowTree_BillBoard_N.uasset" 628
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Assets/Materials/M_SnowTree_Billboard.uasset" 629
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Assets/Textures/T_Bark_D.uasset" 630
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Assets/Textures/T_Bark_N.uasset" 631
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Assets/Textures/T_BarkDetail_D.uasset" 632
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Assets/Textures/T_BarkDetail_M.uasset" 633
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Assets/Textures/T_BarkDetail_N.uasset" 634
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Assets/Materials/M_PineTree_Bark.uasset" 635
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Assets/Materials/M_PineTree_Bark_Inst.uasset" 636
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Assets/Meshes/SM_SnowTree.uasset" 637
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Chameleon/LUTs/LUT_Enhance9.uasset" 638
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/FuzzyShading.uasset" 639
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_ModulateRoughness.uasset" 640
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.uasset" 641
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Tint.uasset" 642
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/Textures/Rock/T_Cave_Rock_Detail_D_2.uasset" 643
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/Textures/Rock/T_CaveRock_Detail_N_2.uasset" 644
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/MaterialFunctions/MF_Cave_DetailRock.uasset" 645
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/Textures/Rock/T_Cave_Rock_Detail_D.uasset" 646
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/Textures/Rock/T_CaveRock_Detail_N.uasset" 647
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/MaterialFunctions/MF_Cave_Rock_01.uasset" 648
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/Textures/Ice/T_Cave_Ice_Tiling_D.uasset" 649
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/Textures/T_Glacier_Cap_N.uasset" 650
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/MaterialFunctions/MF_Cave_Snow.uasset" 651
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/MaterialFunctions/MF_FuzzyShading.uasset" 652
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/MaterialFunctions/MF_SnowMask.uasset" 653
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/Textures/Ice/T_Cave_Ice_Noise_D.uasset" 654
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/MaterialFunctions/MF_SnowBlend.uasset" 655
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/Textures/T_Cave_WaterDrips_M.uasset" 656
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/MaterialFunctions/MF_WetDrips.uasset" 657
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/Textures/Noise/T_Cave_Noise_14.uasset" 658
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/MaterialFunctions/MF_Wetness.uasset" 659
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/Textures/Rock/T_Cave_Rock_Detail_M.uasset" 660
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/Textures/Rock/T_Cave_Rock_Small_M.uasset" 661
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/Textures/Rock/T_Cave_Rock_Small_N.uasset" 662
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/Materials/Rock/M_Cave_Rock.uasset" 663
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/Textures/Rock/T_Cave_Rock_Slate_N.uasset" 664
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/Materials/Rock/M_Cave_Rock_Slate_Inst.uasset" 665
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/Meshes/Rocks/SM_Cave_Rock_Slate_01a.uasset" 666
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/Materials/Rock/M_Cave_Rock_Small_Inst.uasset" 667
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/Meshes/Rocks/SM_Cave_Rock_Small_01a.uasset" 668
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/Environment/Meshes/Rocks/SM_Cave_Rock_Small_01b.uasset" 669
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/GameJamKit/Textures/IES/IES_NoisyBulb_Pointlight.uasset" 670
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/InverseTransformMatrix.uasset" 671
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TransformToZVector.uasset" 672
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 673
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.uasset" 674
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ParallaxOcclusionMapping.uasset" 675
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Textures/T_Blank_A.uasset" 676
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Textures/T_Blank_C.uasset" 677
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Textures/T_Blank_N.uasset" 678
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Materials/M_Tiling_Master.uasset" 679
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Textures/T_BrickFloor_Clean_A.uasset" 680
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Textures/T_BrickFloor_Clean_C.uasset" 681
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Textures/T_BrickFloor_Clean_H.uasset" 682
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Textures/T_BrickFloor_Clean_N.uasset" 683
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Materials/M_BrickFloor_Clean_Inst.uasset" 684
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/MultiplyAdd.uasset" 685
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 686
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 687
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 688
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Materials/M_Master.uasset" 689
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Albedo.uasset" 690
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Compact.uasset" 691
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Normal.uasset" 692
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Materials/M_Edge_Stones_Inst.uasset" 693
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Textures/T_Fire_Pit_A.uasset" 694
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Textures/T_Fire_Pit_C.uasset" 695
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Textures/T_Fire_Pit_N.uasset" 696
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Materials/M_Fire_Pit_Inst.uasset" 697
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Textures/T_SplitLog_A.uasset" 698
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Textures/T_SplitLog_C.uasset" 699
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Textures/T_SplitLog_N.uasset" 700
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Materials/M_Log_Inst.uasset" 701
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Fire_Pit.uasset" 702
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Particles/Textures/T_Fire_SubUV.uasset" 703
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Particles/Textures/T_Fire_Tiled_D.uasset" 704
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Particles/Materials/M_Fire_SubUV.uasset" 705
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Textures/T_Water_N.uasset" 706
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Particles/Materials/M_Heat_Distortion.uasset" 707
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Particles/Materials/M_Radial_Gradient.uasset" 708
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Particles/Textures/T_Smoke_SubUV.uasset" 709
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Particles/Textures/T_Smoke_Tiled_D.uasset" 710
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Particles/Materials/M_smoke_subUV.uasset" 711
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/MedievalDungeon/Particles/P_Pit_Fire.uasset" 712
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Meshes/grass/grass_small_02.uasset" 713
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Textures/rock_small_tiling1_bsm.uasset" 714
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Materials/rocks/rocks_small_c.uasset" 715
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Meshes/rocks_small/rock_group_small_a2.uasset" 716
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Materials/rocks/rocks_small_a.uasset" 717
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/ProceduralNaturePack/Meshes/rocks_small/rock_group_small_a3.uasset" 718
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/UE4Spring19/Content/_UE4Spring19/Levels/Blocking/SecondLevel.umap" 719
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 720
+"../../../Engine/Content/Maps/Entry.umap" 721
